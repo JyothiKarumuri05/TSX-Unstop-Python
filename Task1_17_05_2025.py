@@ -4,14 +4,10 @@ print("Nice to meet you!")
 
 
 # Experiment with running Python code directly in the interpreter. 
-
-
->>print("Hello")
+>>>print("Hello")
 Hello
->>2+10*5
+>>>2+10*5
 52
-
-
 # Write a script with comments explaining different parts of the code
 
 # Printing a greeting message
